@@ -9,4 +9,4 @@
 	<meta name="description" content="Svelte demo app" />
 </svelte:head>
 
-Server tine: {data.serverTime}
+Server time: {data.serverTime}
